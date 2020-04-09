@@ -1,0 +1,4 @@
+C:/dev/ProjectC/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/dev/ProjectC/cmake-build-release/CMakeFiles/ProjectC_calc.dir
+C:/dev/ProjectC/cmake-build-release/CMakeFiles/CalcLib.dir
+C:/dev/ProjectC/cmake-build-release/CMakeFiles/edit_cache.dir

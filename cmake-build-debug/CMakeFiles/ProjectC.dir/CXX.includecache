@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/general/Utils.h
+iostream
+-
+
+C:/dev/ProjectC/calc.cpp
+
+C:/dev/ProjectC/includes/math/Calc.h
+Utils.h
+C:/dev/ProjectC/includes/math/Utils.h
+
+C:/dev/ProjectC/main.cpp
+iostream
+-
+includes/math/Calc.h
+C:/dev/ProjectC/includes/math/Calc.h
+
